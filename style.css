@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0a0c1b;
+    font-family: 'Inter', sans-serif;
+}
+
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-card{
+    display: flex;
+    background-color: hsl(244, 38%, 16%);
+    height: 365px;
+    width: 910px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.getinsightsp{
+    color: #fefffd;
+    margin-left: 60px;
+    margin-top: 60px;
+    letter-spacing: 1px;
+    word-spacing: normal;
+    text-align: left;
+}
+
+.highlight{
+    color: #a75ecf;
+}
+
+.main-paragraph{
+    font-size: 12.5px;
+    text-align: left;
+    margin-left: -307px;
+    margin-top: 150px;
+    color: #bbb9cf;
+    line-height: 1.6;
+    font-weight: 100;
+}
+
+.stats{
+    color: #f1f1f7;
+    font-size: 20px;
+    margin-top: 270px;
+    margin-left: -288px;
+    word-spacing: 68px;
+    letter-spacing: 1px;
+}
+
+.textbelowstats{
+    font-size: 10px;
+    color: #7a7793;
+    margin-top: 300px;
+    margin-left: -290px;
+    word-spacing: 45px;
+    letter-spacing: 1px;
+}
+
+.purpleimg{
+    margin-left: 125px;
+    border-radius: 0px 6px 6px 0px;
+}
+
+.div-for-purple-color{
+    display: flex;
+    position: absolute;
+    background-color: hsla(278, 99%, 26%, 0.541);
+    height: 364px;
+    width: 443px;
+    margin-top: -511px;
+    margin-left: 651px;
+    border-radius: 0px 6px 6px 0px;
+}
+
+
